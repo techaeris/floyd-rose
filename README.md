@@ -1,5 +1,10 @@
 # Floyd Rose 🎸
 
+> [!IMPORTANT]
+> **Project Status — Shared "As-Is" / Not Actively Maintained**
+>
+> The Floyd Rose theme was built primarily for my personal **Omarchy Linux** setup (and Techaeris fans) and is **not an actively maintained project**. It is shared publicly **"as-is"** in the hope that it may be useful to others — you are welcome to use, customize, or fork it freely, though issues and pull requests may not receive responses.
+
 A beautiful, high-tech, deeply immersive system-wide theme based on the band **Pink Floyd**, tailored specifically for Linux lovers, guitar players, tech geeks, and readers of **Techaeris**!
 
 Named after the legendary double-locking guitar tremolo system, **Floyd Rose** offers a premium, darker-but-vibrant visual identity built for the [Omarchy](https://omarchy.org/) Linux distribution.
